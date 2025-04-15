@@ -2,7 +2,7 @@ import React from 'react'
 import './CreditCard.css'
 const CreditCard = () => {
     return (
-        <div className="flip-card">
+        <div className="flip-card pad">
             <div className="flip-card-inner">
                 <div className="flip-card-front">
                     <p className="heading_8264">MASTERCARD</p>
